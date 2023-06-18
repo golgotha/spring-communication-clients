@@ -15,7 +15,7 @@ Build the application
 Run application as Docker
 
 ```shell
-    docker-compose up -d
+docker-compose up -d
 ```
 
 If you have locally running RabbitMQ, you can just run the app using Maven:
